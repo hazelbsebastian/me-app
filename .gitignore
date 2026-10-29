@@ -1,0 +1,11 @@
+# Never commit personal health backups
+wellness-backup-*.json
+wellness-daily-*.csv
+*backup*.json
+*.csv
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
